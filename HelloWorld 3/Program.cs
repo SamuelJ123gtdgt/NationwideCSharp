@@ -6,6 +6,7 @@ namespace HelloWorld_3
     {
         static void Main(string[] args)
         {
+            string name = "Pete";
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World! 2");
             Console.WriteLine("Hellow World! 3");
